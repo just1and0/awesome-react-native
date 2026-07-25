@@ -104,7 +104,7 @@ _Teller is an OSS and FREE productivity secret manager for developers made by [S
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 Many thanks to everyone on the [contributor
-list](https://github.com/jondot/awesome-react-native/graphs/contributors)\\:)
+list](https://github.com/jondot/awesome-react-native/graphs/contributors)\:)
 
 ## Conferences
 
@@ -116,21 +116,21 @@ site](https://facebook.github.io/react/docs/conferences.html).
 
 <http://chainreactconf.com>
 
-Workshops - July 11th, 2018\\
+Workshops - July 11th, 2018\
 Conference - July 12-13th, 2018
 
 ### React Native EU - Wroclaw, Poland
 
 <http://react-native.eu/>
 
-Workshops - September 3-4th, 2018\\
+Workshops - September 3-4th, 2018\
 Conference - September 5-6th, 2018
 
 ### React Alicante - Alicante, Spain
 
 <http://reactalicante.es/>
 
-Workshops - September 13th, 2018\\
+Workshops - September 13th, 2018\
 Conference - September 14-15th, 2018
 
 ### ReactNext - Tel Aviv, Israel
@@ -1228,6 +1228,7 @@ Components and native modules.
 * [react-native-google-pay ★2](https://github.com/busfor/react-native-google-pay) - Accept Payments with Google Pay for React Native apps.
 * [react-native-apay ★2](https://github.com/busfor/react-native-apay) - React Native bridge for Apple Pay
 * [react-native-square-in-app-payments ★18](https://github.com/square/in-app-payments-react-native-plugin) - Square React Native plugin for In-App Payments SDK.
+* [react-native-sanwo](https://github.com/Sanwohq/react-native) - Universal payment SDK for React Native. One provider for Paystack, Flutterwave, Razorpay, Monnify, Interswitch, and custom providers. SanwoProvider + useSanwoCheckout hook. Works with Expo.
 
 ### Animation
 
